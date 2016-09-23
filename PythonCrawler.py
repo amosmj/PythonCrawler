@@ -33,7 +33,20 @@
 # 004. teach NPCs to move
 # 005. teach NPCs to move with different motivations
 # 006. let PC and NPC fight
+# 06a. log hero deaths
 # 007. build out different types and behaviors of NPCs
 # 008. OPTIONAL allow PCs to be programmed by user
 # 009. allow PC to level up
 # 010. allow PC to go to different floor
+
+print ("##############################################################")
+print ("#####  Welcome to Python Crawler  ############################")
+print ("##############################################################")
+
+pcName = input("Please Name your hero\(ine\):")
+
+
+print (pcName, "has died.")
+print ("##############################################################")
+print ("###That's it, all the code I've written#######################")
+print ("##############################################################")
